@@ -1,0 +1,16 @@
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\bin\Debug\Project.exe
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\bin\Debug\Project.pdb
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.exe
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.pdb
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.AddModifyOrder.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.AllOrdersForm.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.DeleteForm.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.FindOneForm.resources
+C:\Users\Oreoluwa Lawal\Videos\HUMBER 1ST SEMESTER\2nd Semester\C#\Project\Project\obj\Debug\Project.FindTwoForm.resources
